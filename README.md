@@ -1,4 +1,4 @@
-https://github.com/kks562/port.git
+https://kks562.github.io/port/
 
 Portfolio Overview
 Welcome to my portfolio! This repository is a showcase of my work and capabilities as a web developer. It features a range of projects and examples that highlight my proficiency in various technologies, my design skills, and my ability to build engaging and functional web applications.
